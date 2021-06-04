@@ -7,4 +7,5 @@ This is a simple readme file
 
 Updating in the update-readme branch
 
-Update locally
+#Purpose
+Purpose of this file is to demonstrate how to use git and github together
